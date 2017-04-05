@@ -8,6 +8,8 @@
 
 import Foundation
 
+print("Welcome to MO's Calculator.\nEnter an expression separated by returns to calculate, use operators like (+,-,/,%).\nYou can also use operators like (fact - for factorial, avg - for average, count - to count the numbers input)\nWhen using these operators you separate each input with space\n\n")
+
 while true{
     
     print("Enter an expression separated by returns:\n")
